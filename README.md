@@ -20,7 +20,7 @@ This Expense Tracker App was developed during a bootcamp at Codecademy. It emplo
         git clone https://github.com/Olakunleniola/Expense_Tracker_App.git
     ```
 - Navigate to the project directory.
-+ Install dependencies using npm install.
++ Install dependencies using `npm install`.
 - Set up PostgreSQL database configuration in the .env file.
 + Run the backend server using `npm start` in the root folder. The backend server will start listening on a set port in the .env file or port 8000 by default.
 - Start the frontend server by navigating to the views folder and `run npm start`.
